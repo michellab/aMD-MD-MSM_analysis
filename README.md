@@ -9,3 +9,7 @@ Malcolm D. Walkinshaw, Andrew J. Baldwin and  Julien Michel*
 of cyclophilin A" , Chem. Sci., 2020, 11, 2670
 
 Please cite that work if you find these scripts useful.
+
+Datasets were made available separately here:
+
+https://bitbucket.org/jjuarez84/cypa-datasets/src/master/
